@@ -1,0 +1,6 @@
+GROUP:APP_TESTING
+appbddlir1	calcul	apps_ro	ro	azeazezaedsd
+appbddlir1	acquisition	apps_ro	ro	azeazezaedsd
+GROUP:APP_PROD
+appbddsrv1	calcul	calcul	owner	azeazezaedsd
+appbddsrv1	calcul	apps_ro	ro	azeazezaedsd
